@@ -1,0 +1,5 @@
+XSym
+0081
+57d0719d7c11d72ead218de25557064d
+../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GoogleSignIn.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

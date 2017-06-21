@@ -1,0 +1,5 @@
+XSym
+0088
+a43b506f7569876c67d3cc2276059ef6
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

@@ -1,0 +1,5 @@
+XSym
+0092
+2acab7ac96233f6f4351ac24a2ab31a8
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

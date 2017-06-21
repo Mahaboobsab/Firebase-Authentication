@@ -1,0 +1,5 @@
+XSym
+0086
+57dedf632cf63bf28cc0d33e73234c79
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

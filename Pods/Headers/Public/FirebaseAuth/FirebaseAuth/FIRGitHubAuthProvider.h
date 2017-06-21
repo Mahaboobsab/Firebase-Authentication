@@ -1,0 +1,5 @@
+XSym
+0090
+88c754b0b414d22571ed30f1e773baa8
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

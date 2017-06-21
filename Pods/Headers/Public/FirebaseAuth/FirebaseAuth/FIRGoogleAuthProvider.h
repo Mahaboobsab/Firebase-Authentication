@@ -1,0 +1,5 @@
+XSym
+0090
+9fec46db1e501546c66bfea754ad5d2c
+../../../../FirebaseAuth/Frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

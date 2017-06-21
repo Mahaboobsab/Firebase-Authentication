@@ -1,0 +1,5 @@
+XSym
+0078
+c453d09f998649fce5444236d2308fc5
+../../../../GoogleSignIn/Frameworks/GoogleSignIn.framework/Headers/GIDSignIn.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
